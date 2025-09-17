@@ -54,7 +54,7 @@ var swiper = new Swiper(".product-slider", {
         slidesPerView: 1,
       },
       768: {
-        slidesPerView: 2,
+        slidesPerView: 3,
       },
       1020: {
         slidesPerView: 3,
@@ -75,7 +75,7 @@ var swiper = new Swiper(".review-slider", {
         slidesPerView: 1,
       },
       768: {
-        slidesPerView: 2,
+        slidesPerView: 3,
       },
       1020: {
         slidesPerView: 3,
